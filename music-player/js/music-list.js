@@ -29,19 +29,6 @@ let allMusic = [
     src: "music-chill4"
   },
   {
-    name: "Chill song - Hindi",
-    artist: "",
-    img: "",
-    src: "music-chill5"
-  },
- 
-     {
-    name: "Chill song - Hindi",
-    artist: "",
-    img: "",
-    src: "music-chill7"
-  },
-  {
     name: "Crazy",
     artist: "Jordan Schor",
     img: "music-1",
